@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm vegan, love LGBTQ+,
+I support BLM, SAH and Palistine 
+I'm stupid 
