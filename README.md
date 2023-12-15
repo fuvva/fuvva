@@ -1,9 +1,6 @@
-### Hi there 👋
+# I'm student of Saint-Petersburgs Politechnical University
 
-I'm student of Saint-Petersburgs Politechnical University
-
-I'm interested in learning Python
-
+### I'm interested in learning Python, physics and math
 
 ![boy](https://github.com/fuvva/fuvva/blob/main/tofie-student.gif?raw=true)
 
