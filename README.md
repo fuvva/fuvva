@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm student of Saint-Petersburgs Politechnical University
+
+I'm interested in learning Python
+
+
+![boy](https://github.com/fuvva/fuvva/blob/main/tofie-student.gif?raw=true)
+
+
 <!--
 **fuvva/fuvva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
